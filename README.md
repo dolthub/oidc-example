@@ -1,7 +1,7 @@
 Overview
 ========
 
-A very short demonstration of a SAML service provider.
+A very short demonstration of an OIDC service provider.
 
 To test:
 
